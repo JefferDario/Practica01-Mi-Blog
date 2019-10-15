@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+<head>
+
+   <title>Creacion de sitios web Thai</title>   
+   <meta charset="utf-8" />
+   <meta name="viewport" content="width=device-width, initial-scale=1" />
+   <link href="base.css" rel="stylesheet" />
+   <link href="layout1.css" rel="stylesheet" />
+</head>
+<header>
+      <img src="logo2.png" alt="Creacion de sitios web" />
+   </header>
+
+
+
+
+</html>
